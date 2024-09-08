@@ -1,0 +1,32 @@
+[
+  {
+    "imgurl": "womencoat",
+    "alt": "Wome coat ",
+    "textmsg": "Printed Chiffon Dress",
+    "button": "Add to cart",
+    "clsName": "displayblock Addtocartbtn",
+    "currencyIcon": true,
+    "currencyValue": "61.19",
+    "hr": true,
+    "starRating": true
+  },
+  {
+    "imgurl": "womenshots",
+    "alt": "Men Phant 2",
+    "button": "Add to cart",
+    "textmsg": "Printed Chiffon Dress",
+    "clsName": "displayblock Addtocartbtn",
+    "currencyIcon": true,
+    "currencyValue": "61.19",
+    "hr": true,
+    "starRating": true
+  },
+  {
+    "imgurl": "Forwomen",
+    "alt": "For men",
+    "button": "More",
+    "clsName_title": "fontfammono cardtitlemsg",
+    "clsName": "clickhereCardbtn",
+    "cardtitle": "FOR WOMEN"
+  }
+]

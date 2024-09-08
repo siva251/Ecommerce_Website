@@ -1,0 +1,276 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.App {
+  border: 25px solid red;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+.justifycontent_spaceEven {
+  display: flex;
+  justify-content: space-evenly;
+}
+.justifycontent_spacearround {
+  display: flex;
+  justify-content: space-around;
+}
+.width15vw {
+  width: 15vw;
+}
+.header_icons {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  text-align: center;
+}
+.socialmediaIcon {
+  padding: 0 5% 0 0;
+}
+.fashionStoreImg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.margintop_bottom_2 {
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+.displayflex {
+  display: flex;
+}
+.padding1 {
+  padding: 1%;
+}
+.paddingRight1 {
+  padding: 0 1% 0 0;
+}
+.borderpadding6px {
+  border: 1px solid black;
+  padding: 6px;
+}
+.paddingright10 {
+  padding-right: 10%;
+}
+.borderrigth {
+  border-right: 1px solid black;
+}
+.justifycontent_Center {
+  display: flex;
+  justify-content: center;
+}
+.navtext {
+  text-decoration: none;
+}
+.alignItemCenter {
+  display: flex;
+  align-items: center;
+}
+.blackColorbg {
+  background-color: black;
+}
+.whitefont {
+  color: white;
+}
+.blackfont {
+  color: black;
+}
+.redColorbg {
+  background-color: red;
+}
+.homemsg {
+  font-size: xxx-large;
+  font-weight: bolder;
+}
+.forParent {
+  display: flex;
+  flex-direction: row;
+}
+.forParent:before,
+.forParent:after {
+  content: "";
+  flex: 1 1;
+  border-bottom: 1px solid;
+  margin: auto;
+}
+.forParent:before {
+  margin-right: 10px;
+}
+.forParent:after {
+  margin-left: 10px;
+}
+.clickhereCard {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.clickhereCardimg {
+  border: 1px solid #ddd;
+  transition: box-shadow 0.2s;
+  padding: 5px;
+  border-radius: 4px;
+}
+.clickhereCardimg:hover {
+  box-shadow: rgb(255, 0, 0) 0px 0px 0px 2px, rgb(255, 0, 0) 0px 4px 6px -1px,
+    rgb(255, 0, 0) 0px 1px 0px inset;
+}
+.greycolorbg {
+  background-color: #d2d2d2;
+}
+.boldfont {
+  font-weight: bold;
+}
+.clickhereCardContent {
+  position: absolute;
+  top: 50%;
+  left: 49%;
+  transform: translate(-50%, -50%);
+}
+.flexdircolumn {
+  display: flex;
+  flex-direction: column;
+}
+.flexdirrow {
+  display: flex;
+  flex-direction: row;
+}
+.navelement {
+  font-family: ui-monospace;
+}
+.navelement:hover {
+  border-bottom: 5px solid red;
+}
+.fontfammono {
+  font-family: monospace;
+}
+.clickhereCardbtn {
+  background-color: rgb(224, 89, 89);
+  border: none;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.marginleft7 {
+  margin-left: 7%;
+}
+.margintop1 {
+  margin: 1% 0 0 0;
+}
+.singleLine {
+  border: 1px solid black;
+  width: 25vw;
+}
+.formenwomencard {
+  position: relative;
+}
+.bottomDate {
+  font-size: xxx-large;
+  font-weight: bold;
+  padding: 1%;
+}
+.bottomMonth {
+  color: white;
+  padding: 0 15%;
+}
+.calendar {
+  color: white;
+  background-color: red;
+  position: absolute;
+  bottom: 4%;
+  left: 1.5%;
+}
+.formenwomencard .clickhereCardbtn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgb(224, 89, 89);
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.cardtitlemsg {
+  position: absolute;
+  top: 35%;
+  left: 35%;
+  color: white;
+  font-size: xx-large;
+  font-weight: bold;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.fontsize_LG {
+  font-size: larger;
+}
+.displayblock {
+  display: block;
+}
+.Addtocartbtn {
+  background-color: rgb(255, 0, 0);
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+.Addtocartbtn:hover,
+.clickhereCardbtn:hover {
+  font-weight: bold;
+  border: 2px solid black;
+}
+.width_25 {
+  width: 25%;
+}
+.width_50 {
+  width: 50%;
+}
+.width_100 {
+  width: 100%;
+}
+.desc {
+  padding: 5% 0;
+}
+.paddingleft2 {
+  padding: 0 0 0 2%;
+}
+
+.star::before {
+  content: "\2606";
+  font-size: 25px;
+}
+.star.rated::before {
+  content: "\2605";
+  font-size: 25px;
+  color: tomato;
+}
+body::-webkit-scrollbar {
+  width: 12px;
+}
+
+body::-webkit-scrollbar-track {
+  background: red;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: rgb(204, 65, 65);
+  border-radius: 20px;
+  border: 3px solid rgb(199, 85, 85);
+}
