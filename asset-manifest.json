@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c5619819.css",
+    "main.js": "/static/js/main.2a5d25e8.js",
+    "static/js/787.0c1a86ef.chunk.js": "/static/js/787.0c1a86ef.chunk.js",
+    "static/media/HomeBG.jpg": "/static/media/HomeBG.f19a892a65f72e7559fe.jpg",
+    "static/media/Formen.jpg": "/static/media/Formen.d48a28ddbf425462d420.jpg",
+    "static/media/Forwomen.jpg": "/static/media/Forwomen.4e30e17c46309ef2bdd7.jpg",
+    "static/media/Mencoat.jpg": "/static/media/Mencoat.1036d4fe612e379c57d4.jpg",
+    "static/media/handbag.jpg": "/static/media/handbag.93072f3e4169666f50e5.jpg",
+    "static/media/clothesSectionWomen.jpg": "/static/media/clothesSectionWomen.4ef1bedcec247fa19081.jpg",
+    "static/media/Womenovercoat2.jpg": "/static/media/Womenovercoat2.fbdffebf5eaa4a440a42.jpg",
+    "static/media/bag.jpg": "/static/media/bag.b1a7f09c9a3c31fd9a33.jpg",
+    "static/media/WomenOvercoat.jpg": "/static/media/WomenOvercoat.df6883b225adec2a5d3d.jpg",
+    "static/media/footwareSectionWome.jpg": "/static/media/footwareSectionWome.66c4560c97a74482907a.jpg",
+    "static/media/MenPhant_1.jpg": "/static/media/MenPhant_1.ea136e91dd1c06fc8c11.jpg",
+    "static/media/Womecoat.jpg": "/static/media/Womecoat.8040d93e59d2f00565b8.jpg",
+    "static/media/MenwithBag.jpg": "/static/media/MenwithBag.44f7656159b745cc2e73.jpg",
+    "static/media/handbagSectionWomen.jpg": "/static/media/handbagSectionWomen.a11c92858ce9d2e7ec36.jpg",
+    "static/media/Womeshots.jpg": "/static/media/Womeshots.6cf31231cb9d2874ce32.jpg",
+    "static/media/MenPhant_2.jpg": "/static/media/MenPhant_2.3ef40a70c6cde9ede738.jpg",
+    "static/media/shoe.jpg": "/static/media/shoe.489a7bf26b696096ecd4.jpg",
+    "index.html": "/index.html",
+    "main.c5619819.css.map": "/static/css/main.c5619819.css.map",
+    "main.2a5d25e8.js.map": "/static/js/main.2a5d25e8.js.map",
+    "787.0c1a86ef.chunk.js.map": "/static/js/787.0c1a86ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5619819.css",
+    "static/js/main.2a5d25e8.js"
+  ]
+}
