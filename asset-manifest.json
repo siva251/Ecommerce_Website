@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ecommerce-website/static/css/main.c5619819.css",
-    "main.js": "/ecommerce-website/static/js/main.d663601e.js",
+    "main.css": "/ecommerce-website/static/css/main.08cd69e7.css",
+    "main.js": "/ecommerce-website/static/js/main.a4b6e6f5.js",
     "static/js/787.0c1a86ef.chunk.js": "/ecommerce-website/static/js/787.0c1a86ef.chunk.js",
     "static/media/HomeBG.jpg": "/ecommerce-website/static/media/HomeBG.f19a892a65f72e7559fe.jpg",
     "static/media/Formen.jpg": "/ecommerce-website/static/media/Formen.d48a28ddbf425462d420.jpg",
@@ -21,12 +21,12 @@
     "static/media/MenPhant_2.jpg": "/ecommerce-website/static/media/MenPhant_2.3ef40a70c6cde9ede738.jpg",
     "static/media/shoe.jpg": "/ecommerce-website/static/media/shoe.489a7bf26b696096ecd4.jpg",
     "index.html": "/ecommerce-website/index.html",
-    "main.c5619819.css.map": "/ecommerce-website/static/css/main.c5619819.css.map",
-    "main.d663601e.js.map": "/ecommerce-website/static/js/main.d663601e.js.map",
+    "main.08cd69e7.css.map": "/ecommerce-website/static/css/main.08cd69e7.css.map",
+    "main.a4b6e6f5.js.map": "/ecommerce-website/static/js/main.a4b6e6f5.js.map",
     "787.0c1a86ef.chunk.js.map": "/ecommerce-website/static/js/787.0c1a86ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5619819.css",
-    "static/js/main.d663601e.js"
+    "static/css/main.08cd69e7.css",
+    "static/js/main.a4b6e6f5.js"
   ]
 }
