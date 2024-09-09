@@ -1,5 +1,5 @@
 
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import {  Route, Routes } from 'react-router-dom';
 import './App.css';
 import Header from './Components/Header';
 import Home from './Components/Home';
@@ -10,13 +10,11 @@ function App() {
   return (
     <div className="App">
       {console.log("skkk...came into App.js")}
-      <BrowserRouter basename='/ecommerce-website'>
       <Header/>
       <Routes>
         <Route path="/" element={<Home/>}/>
       </Routes>
       <Footer/>
-      </BrowserRouter>
     </div>
   );
 }
