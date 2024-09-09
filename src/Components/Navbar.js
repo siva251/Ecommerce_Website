@@ -14,7 +14,7 @@ const Navbar = () => {
   ];
   return (
     <>
-      <div className="displayflex justifycontent_Center alignItemCenter blackColorbg">
+      <div className="displayflex justifycontent_Center alignItemCenter navbar blackColorbg">
         {data.map((navData, index) => (
           <div key={index} className="padding1 navelement">
             <NavLink to="/" className="navtext whitefont">
