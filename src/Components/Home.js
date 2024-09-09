@@ -17,7 +17,7 @@ const Home = () => {
     <>
       <Navbar />
       {console.log("skkk...came into Home.js")}
-      {/* <div
+      <div
         className="HomeRoot"
         style={{
           backgroundImage: `url(${HomeBG})`,
@@ -162,7 +162,7 @@ const Home = () => {
             </div>
           ))}
         </div>
-      </div> */}
+      </div>
     </>
   );
 };
