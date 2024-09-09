@@ -9,6 +9,7 @@ import Footer from './Components/Footer';
 function App() {
   return (
     <div className="App">
+      {console.log("skkk...came into App.js")}
       <Header/>
       <Routes>
         <Route path="/" element={<Home/>}/>

@@ -36,6 +36,7 @@ const Formenwomentcard = (props) => {
   return (
     <>
       <div>
+      {console.log("skkk...came into formenwomencard.js")}
         <motion.div
           initial={{ y: "100%" }}
           whileInView={{ opacity: 1, scale: 1, y: 0 }}

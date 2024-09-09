@@ -16,6 +16,7 @@ const Home = () => {
   return (
     <>
       <Navbar />
+      {console.log("skkk...came into Home.js")}
       <div
         className="HomeRoot"
         style={{
